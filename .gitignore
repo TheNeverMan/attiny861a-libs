@@ -1,3 +1,6 @@
+Makefile
+ATTiny861Adef.inc
+out/*
 # Prerequisites
 *.d
 
